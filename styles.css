@@ -1,0 +1,34 @@
+.star{
+    color:red;
+}
+.container .star_widget input{
+    display : none;
+}
+.star_widget label{
+    font-size:40px;
+    padding:10px;
+    transition: all;
+
+}
+.stars{
+    border:none;
+    background-color: unset;
+    font-size: 40px;
+}
+/* .star_widget .stars:hover{
+    cursor: pointer;
+    color:gold;
+
+} */
+.rate_star{
+    display: none;
+}
+.star_rating{
+    user-select: none;
+}
+
+.fa-circle{
+    border: none;
+    background: unset;
+    color: red;
+}
